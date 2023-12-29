@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FaceDetection": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Kerod\\source\\repos\\FaceDetection\\FaceDetection"
+    }
+  }
+}
