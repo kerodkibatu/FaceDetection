@@ -1,3 +1,6 @@
+| Check out the video!  | [<img src="https://i.ytimg.com/vi/DZpMhyMrAmg/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=DZpMhyMrAmg "🔴LIVE \| Making A Face Detection Program in C# \| Coding Challenge #2") |
+| ------ | ------------- |
+
 # Face Detector with OpenCV and C# - Coding Challenge Series
 
 Welcome to the Face Detector project, the second installment in our Coding Challenge Series! 🚀 In this repository, you'll find the code and resources to build a real-time face detector using OpenCV and C#.
